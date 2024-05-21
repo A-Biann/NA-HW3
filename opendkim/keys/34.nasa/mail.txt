@@ -1,0 +1,3 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx6cl7YXuVWjzE4CAz0dVGf8pbI86mNUGSf8nFr7cCczDmpVEKV+fKBT2El7O1XBAcobeHvWuGo+wMYyEWwsBQnIDdXAkUyxKS7cQjp8NvBwknitYoEX/PLpQzH5sY8v6tfdGTbOzLLjx35FH3fw60C/z6D/feQv2iFkJ9MEm+SgAq6SwKxxAxfOUxng2BoZnEMpZI6i0ffKphP"
+	  "Ixce3J6Y+1hi85/90y4DkemIGhxMgeuNTSYP+6tuXKaaQvGiLlkQ0jsOB+85mkoIOh/k8pWZKLVcwYvq9r/Qrl0tbgqLPyq6+EPPZs/c/3t1CSwaTvXVDf/OY0WdBuiMolZ5w7HQIDAQAB" )  ; ----- DKIM key mail for 34.nasa

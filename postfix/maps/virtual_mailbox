@@ -1,0 +1,15 @@
+root root/
+report root/
+postmaster root/
+double-bounce root/
+virusalert root/
+
+log log/
+
+test test/
+
+ta1 ta1/
+ta2 ta2/
+ta3 ta3/
+ta4 ta4/
+nasata ta1/
